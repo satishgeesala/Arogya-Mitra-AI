@@ -1,2 +1,21 @@
-# Arogya-Mitra-AI
-Millions in rural India do not have timely access to doctors and reliable healthcare information. They often rely on unverified advice or delay treatment, which worsens conditions and even leads to preventable deaths. There is an urgent need for an accessible, affordable, and multilingual healthcare support system.
+# Arogya Mitra AI (Bootstrap Frontend)
+
+A minimal Bootstrap-based website for Arogya Mitra AI — an intelligent healthcare assistant for rural areas.
+
+## Features
+- Responsive Bootstrap layout
+- Voice + text input demo
+- Smart Emergency Alert detection (message only)
+- Light white-blue medical theme
+- Works offline, frontend-only demo
+
+## Usage
+1. Open `index.html` in a browser.
+2. Type or speak symptoms.
+3. Red alert appears for emergencies, blue for general advice.
+
+## Hosting
+You can host easily via:
+- Netlify: https://app.netlify.com/drop
+- GitHub Pages
+- VS Code Live Server

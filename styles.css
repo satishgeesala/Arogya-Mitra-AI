@@ -1,0 +1,3 @@
+body {font-family: 'Inter', sans-serif;}
+.card-title {color:#0d6efd;}
+textarea::placeholder {color:#999;}
