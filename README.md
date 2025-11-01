@@ -1,6 +1,6 @@
-# Arogya Mitra AI (Bootstrap Frontend)
+# Arogya Mitra AI
 
-A minimal Bootstrap-based website for Arogya Mitra AI — an intelligent healthcare assistant for rural areas.
+A minimal website for Arogya Mitra AI — an intelligent healthcare assistant for rural areas.
 
 ## Features
 - Responsive Bootstrap layout
